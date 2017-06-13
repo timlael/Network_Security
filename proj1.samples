@@ -1,0 +1,19 @@
+Key: 4847464544434241
+Input: abcdefghijklmnopqrstuvwxyzabcdef
+Encryptions:
+Block 0 = cc2a30ec 7bba2387
+Block 1 = 906117cb 3efa163b
+Block 2 = eb62ff46 47e19874
+Block 3 = d75a6ddd 3ba6b143
+Decryptions:
+Block 0 = 64636261 68676665
+Block 1 = 6c6b6a69 706f6e6d
+Block 2 = 74737271 78777675
+Block 3 = 62617a79 66656463
+
+Key: 21286232362c6338
+Input: Encrypt
+Encryptions:
+Block 0 = 67ba7623 fcb076d6
+Decryptions:
+Block 0 = 72636e45 00747079
